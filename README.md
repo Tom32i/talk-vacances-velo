@@ -14,3 +14,13 @@ Slides: https://tom32i.github.io/talk-rando-velo
     make start
 
 Go to [localhost:8032](http://localhost:8032)
+
+## Les grandes idées
+
+- économique (camping + bouffe)
+- écologique (carburant, consomation, ...)
+- relaxant / slow
+- dépayasant
+- facile d'accès :
+- satisfaction personelle, autonomie, emancipation
+- tuto : carte, TER, matos
