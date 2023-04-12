@@ -8,7 +8,9 @@ Slides: https://tom32i.github.io/talk-vacances-velo
 ## Liens utiles
 
 - [France Vélo Tourisme](https://www.francevelotourisme.com/) (cartes et itinéraires)
-- [Carte des trains directs](https://direkt.bahn.guru)
+- [Carte des véloroutes (pdf)](https://www.velo-territoires.org/wp-content/uploads/2023/03/carte-SNV-2023_web.pdf)
+- [Carte du réseau TER (pdf)](https://www.sncf-reseau.com/sites/default/files/2019-04/MEP_POSTER_avril2019_POUR_LE_WEB.PDF)
+- [Carte interactive des trains](https://direkt.bahn.guru)
 - [Voyager avec son vélo dans le train](https://eurovelo3.fr/voyager-en-train-avec-son-velo-demandez-le-guide-2023/ )
 
 ## Setup
