@@ -5,6 +5,12 @@
 
 Slides: https://tom32i.github.io/talk-vacances-velo
 
+## Liens utiles
+
+- [France Vélo Tourisme](https://www.francevelotourisme.com/) (cartes et itinéraires)
+- [Carte des trains directs](https://direkt.bahn.guru)
+- [Voyager avec son vélo dans le train](https://eurovelo3.fr/voyager-en-train-avec-son-velo-demandez-le-guide-2023/ )
+
 ## Setup
 
     make install
